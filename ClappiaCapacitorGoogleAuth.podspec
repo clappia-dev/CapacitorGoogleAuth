@@ -1,7 +1,7 @@
 
   Pod::Spec.new do |s|
-    s.name = 'CodetrixStudioCapacitorGoogleAuth'
-    s.version = '0.0.1'
+    s.name = 'ClappiaCapacitorGoogleAuth'
+    s.version = '4.0.0'
     s.summary = 'Google Auth plugin for capacitor.'
     s.license = 'MIT'
     s.homepage = 'https://github.com/CodetrixStudio/CapacitorGoogleAuth.git'
@@ -13,3 +13,4 @@
     s.dependency 'GoogleSignIn', '~> 6.2.4'
     s.static_framework = true
   end
+
