@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { GoogleAuth } from '@codetrix-studio/capacitor-google-auth';
+import { GoogleAuth } from '@clappia/capacitor-google-auth';
 
 @Component({
   selector: 'app-home',
