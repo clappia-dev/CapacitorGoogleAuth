@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { GoogleAuth } from '@codetrix-studio/capacitor-google-auth';
+import { GoogleAuth } from '@clappia/capacitor-google-auth';
 import { Platform } from '@ionic/angular';
 import { environment } from 'src/environments/environment';
 
